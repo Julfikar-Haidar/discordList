@@ -47,3 +47,37 @@ body {
   }
   
   * { box-model: border-box; font-family: 'futura'; }
+
+  /* .button {
+    background-color: #EFF4FF;
+    border: none;
+    color: #2557D6;
+    padding: 10px 20px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    margin-right: 13px;
+    margin-left: -1px;
+    margin-bottom: 10px;
+    border-radius: 100px;
+    cursor: pointer;
+  } */
+  /* .btn_sideby_side {
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    grid-gap: 20px;
+  } */
+
+  /* .grid-container {
+    display: grid;
+    grid-template-columns: 50px 40px 40px;
+    grid-gap: 20px;
+    } */
+   .rec_clm {
+    display: grid;
+    grid-template-columns: 50px 50px 50px;
+  
+   }
+  
+    
+   
